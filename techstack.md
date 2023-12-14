@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 jdeola/SNIPPET_NOTEBOOKS is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [Browserify](http://browserify.org/) – Front End Package Manager
@@ -19,11 +20,13 @@ jdeola/SNIPPET_NOTEBOOKS is built on the following main stack:
 - [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 jdeola/SNIPPET_NOTEBOOKS is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
@@ -41,14 +44,15 @@ jdeola/SNIPPET_NOTEBOOKS is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jdeola/SNIPPET_NOTEBOOKS](https://github.com/jdeola/SNIPPET_NOTEBOOKS)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|48<br/>Tools used|11/11/23 <br/>Report generated|
+|48<br/>Tools used|12/14/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -197,7 +201,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (5)
+## Other (6)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg' alt='Jupyter'>
@@ -224,6 +228,14 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/8085/15352388.png' alt='flow-bin'>
+  <br>
+  <sub><a href="github.com/flowtype/flow-bin">flow-bin</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/9527/5502029.jpeg' alt='husky'>
   <br>
   <sub><a href="https://github.com/typicode/husky">husky</a></sub>
@@ -243,9 +255,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (27)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (26)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (27)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (26)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -268,7 +280,6 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v4.0.0|01/12/23|Jim Deola |MIT|N/A|
 |[esprima](https://www.npmjs.com/esprima)|v4.0.0|01/12/23|Jim Deola |BSD-2-Clause|N/A|
 |[fast-glob](https://www.npmjs.com/fast-glob)|v3.2.11|01/12/23|Jim Deola |MIT|N/A|
-|[flow-bin](https://www.npmjs.com/flow-bin)|v0.178.0|01/12/23|Jim Deola |MIT|N/A|
 |[loose-envify](https://www.npmjs.com/loose-envify)|v1.4.0|01/12/23|Jim Deola |MIT|N/A|
 |[pretty-quick](https://www.npmjs.com/pretty-quick)|v3.1.3|01/12/23|Jim Deola |MIT|N/A|
 |[request](https://www.npmjs.com/request)|v2.88.2|01/12/23|Jim Deola |Apache-2.0|[CVE-2023-28155](https://github.com/advisories/GHSA-p8p7-x288-28g6) (Moderate)|
@@ -280,4 +291,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
