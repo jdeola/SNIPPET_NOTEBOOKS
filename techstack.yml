@@ -1,7 +1,7 @@
 repo_name: jdeola/SNIPPET_NOTEBOOKS
-report_id: 6a21652ea076a41e35716e1cb8a45927
+report_id: 6f8bbc72aff3866755198e019dc09284
 repo_type: Public
-timestamp: '2023-11-11T23:24:27+00:00'
+timestamp: '2023-12-14T10:27:36+00:00'
 requested_by: jdeola
 provider: github
 branch: master
@@ -17,7 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1178/slQydAMv.png
-  detection_source_url: Javascript_Typescript/node_modules/js-tokens/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/js-tokens/package.json
   detection_source: Javascript_Typescript/node_modules/js-tokens/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -30,7 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
-  detection_source: Javascript_Typescript/node_modules/zod/lib/types.js
+  detection_source: Javascript_Typescript/node_modules/zod/lib/index.umd.js
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
 - name: TypeScript
@@ -43,8 +43,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
-  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
 - name: Node.js
@@ -56,7 +56,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
 - name: React
@@ -69,7 +69,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: Javascript_Typescript/yarn.lock
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/yarn.lock
   detection_source: Javascript_Typescript/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -83,7 +83,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/849/9esmqty2.png
-  detection_source_url: Javascript_Typescript/node_modules/loose-envify/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/loose-envify/package.json
   detection_source: Javascript_Typescript/node_modules/loose-envify/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -96,7 +96,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
-  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
 - name: Git
@@ -118,8 +118,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
-  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
 - name: Mocha
@@ -133,7 +133,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/832/mocha.png
-  detection_source_url: Javascript_Typescript/node_modules/js-tokens/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/js-tokens/package.json
   detection_source: Javascript_Typescript/node_modules/js-tokens/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -147,8 +147,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
-  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
 - name: Yarn
@@ -173,7 +173,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Headless Browsers
   image_url: https://img.stackshare.io/service/7054/preview.jpeg
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
   detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -187,7 +187,7 @@ tools:
   category: Monitoring
   sub_category: node.js Application Monitoring
   image_url: https://img.stackshare.io/service/5577/preview.png
-  detection_source_url: Javascript_Typescript/node_modules/zod/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/zod/package.json
   detection_source: Javascript_Typescript/node_modules/zod/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -241,6 +241,14 @@ tools:
   detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: flow-bin
+  website_url: github.com/flowtype/flow-bin
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8085/15352388.png
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
 - name: husky
   website_url: https://github.com/typicode/husky
   open_source: false
@@ -267,7 +275,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17586/default_e98b11d23d67b728bd1f3e02eba62d97a55febbd.png
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
   detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -281,8 +289,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
-  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
 - name: "@types/jsdom"
@@ -295,7 +303,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17003/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
   detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -309,8 +317,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
-  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
 - name: "@types/prettier"
@@ -323,7 +331,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16943/default_c17ccfb3dc0510bb2c684b87ee080a74a9728c34.png
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
   detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -337,7 +345,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16673/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
-  detection_source_url: Javascript_Typescript/yarn.lock
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/yarn.lock
   detection_source: Javascript_Typescript/node_modules/@types/react/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -351,7 +359,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: Javascript_Typescript/yarn.lock
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/yarn.lock
   detection_source: Javascript_Typescript/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -365,7 +373,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16354/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
   detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -379,8 +387,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
-  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
 - name: "@typescript-eslint/parser"
@@ -393,8 +401,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
-  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
 - name: benchmark
@@ -408,7 +416,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16241/default_cbc604730ab04341982d806fe402cd0706cc8bf4.png
-  detection_source_url: Javascript_Typescript/node_modules/zod/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/zod/package.json
   detection_source: Javascript_Typescript/node_modules/zod/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -422,7 +430,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16043/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
   detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -436,7 +444,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18333/default_cef8b737c55fccc3604e91ce246aef30fc604c73.png
-  detection_source_url: Javascript_Typescript/yarn.lock
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/yarn.lock
   detection_source: Javascript_Typescript/node_modules/@types/react/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -450,7 +458,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16578/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
-  detection_source_url: Javascript_Typescript/node_modules/loose-envify/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/loose-envify/package.json
   detection_source: Javascript_Typescript/node_modules/loose-envify/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -464,8 +472,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
-  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
 - name: eslint-plugin-import
@@ -478,7 +486,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: Javascript_Typescript/node_modules/zod/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/zod/package.json
   detection_source: Javascript_Typescript/node_modules/zod/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -492,7 +500,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
   detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -506,7 +514,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16362/default_23e0dabcd0197f0c1f0a41268f8ca3f7e8b1f1e2.png
-  detection_source_url: Javascript_Typescript/node_modules/js-tokens/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/js-tokens/package.json
   detection_source: Javascript_Typescript/node_modules/js-tokens/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -520,21 +528,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17033/default_50357c490b205882dcfb608fd3c74b446186c21e.png
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
-  detection_source: Javascript_Typescript/node_modules/csstype/package.json
-  last_updated_by: Jim Deola
-  last_updated_on: 2023-01-12 23:29:51.000000000 Z
-- name: flow-bin
-  description: Binary wrapper for Flow - A static type checker for JavaScript
-  package_url: https://www.npmjs.com/flow-bin
-  version: 0.178.0
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/15957/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
   detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -548,7 +542,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18138/default_5813ab9c745152271a057cdab6eeded8939401f3.png
-  detection_source_url: Javascript_Typescript/yarn.lock
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/yarn.lock
   detection_source: Javascript_Typescript/node_modules/react/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -562,7 +556,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16281/default_f130429ee56156823c8c6e94da6fb7aa07f07ba5.png
-  detection_source_url: Javascript_Typescript/node_modules/zod/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/zod/package.json
   detection_source: Javascript_Typescript/node_modules/zod/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -576,7 +570,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
   detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -597,7 +591,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16027/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
-  detection_source_url: Javascript_Typescript/node_modules/loose-envify/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/loose-envify/package.json
   detection_source: Javascript_Typescript/node_modules/loose-envify/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
@@ -612,8 +606,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
-  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
 - name: ts-node
@@ -626,8 +620,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: Javascript_Typescript/node_modules/csstype/package.json
-  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
 - name: tslib
@@ -640,7 +634,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
-  detection_source_url: Javascript_Typescript/node_modules/zod/package.json
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/zod/package.json
   detection_source: Javascript_Typescript/node_modules/zod/package.json
   last_updated_by: Jim Deola
   last_updated_on: 2023-01-12 23:29:51.000000000 Z
