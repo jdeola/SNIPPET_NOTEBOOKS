@@ -52,7 +52,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jdeola/SNIPPET_NOTEBOOKS](https://github.com/jdeola/SNIPPET_NOTEBOOKS)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|48<br/>Tools used|12/14/23 <br/>Report generated|
+|52<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -255,9 +255,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (26)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (30)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (26)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (30)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -272,6 +272,7 @@ Full tech stack [here](/techstack.md)
 |[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|v5.23.0|01/12/23|Jim Deola |MIT|N/A|
 |[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|v5.23.0|01/12/23|Jim Deola |BSD-2-Clause|N/A|
 |[benchmark](https://www.npmjs.com/benchmark)|v2.1.4|01/12/23|Jim Deola |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v4.1.2|01/12/23|Jim Deola |MIT|N/A|
 |[chokidar](https://www.npmjs.com/chokidar)|v3.5.3|01/12/23|Jim Deola |MIT|N/A|
 |[csstype](https://www.npmjs.com/csstype)|v3.1.1|01/12/23|Jim Deola |MIT|N/A|
 |[envify](https://www.npmjs.com/envify)|v3.4.0|01/12/23|Jim Deola |MIT|N/A|
@@ -280,6 +281,9 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v4.0.0|01/12/23|Jim Deola |MIT|N/A|
 |[esprima](https://www.npmjs.com/esprima)|v4.0.0|01/12/23|Jim Deola |BSD-2-Clause|N/A|
 |[fast-glob](https://www.npmjs.com/fast-glob)|v3.2.11|01/12/23|Jim Deola |MIT|N/A|
+|[flow-bin](https://www.npmjs.com/flow-bin)|v0.178.0|01/12/23|Jim Deola |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v7.0.4|01/12/23|Jim Deola |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v12.3.7|01/12/23|Jim Deola |MIT|N/A|
 |[loose-envify](https://www.npmjs.com/loose-envify)|v1.4.0|01/12/23|Jim Deola |MIT|N/A|
 |[pretty-quick](https://www.npmjs.com/pretty-quick)|v3.1.3|01/12/23|Jim Deola |MIT|N/A|
 |[request](https://www.npmjs.com/request)|v2.88.2|01/12/23|Jim Deola |Apache-2.0|[CVE-2023-28155](https://github.com/advisories/GHSA-p8p7-x288-28g6) (Moderate)|
