@@ -1,0 +1,710 @@
+repo_name: jdeola/SNIPPET_NOTEBOOKS
+report_id: 6a21652ea076a41e35716e1cb8a45927
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:39:23+00:00'
+requested_by: jdeola
+provider: github
+branch: master
+detected_tools_count: 52
+tools:
+- name: CoffeeScript
+  description: A little language that compiles into JavaScript
+  website_url: http://coffeescript.org/
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1178/slQydAMv.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/js-tokens/package.json
+  detection_source: Javascript_Typescript/node_modules/js-tokens/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/zod/lib/index.umd.js
+  detection_source: Javascript_Typescript/node_modules/zod/lib/index.umd.js
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  version: 4.6.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/yarn.lock
+  detection_source: Javascript_Typescript/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: Browserify
+  description: Browser-side require() the node.js way
+  website_url: http://browserify.org/
+  version: 13.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/849/9esmqty2.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/loose-envify/package.json
+  detection_source: Javascript_Typescript/node_modules/loose-envify/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS
+  detection_source: Repo Metadata
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 28.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/js-tokens/package.json
+  detection_source: Javascript_Typescript/node_modules/js-tokens/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/yarn.lock
+  detection_source: Javascript_Typescript/yarn.lock
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: 19.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 2.0.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/zod/package.json
+  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/package.json
+  detection_source: Javascript_Typescript/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: rollup
+  description: The next-generation JavaScript module bundler
+  website_url: http://rollupjs.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/zod/package.json
+  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS
+  detection_source: Repo Metadata
+- name: Zod
+  description: TypeScript-first schema validation
+  website_url: https://zod.dev/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/48521/default_eea961e4c374e68a1c7eb5bbc9e4a39920890342.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/package.json
+  detection_source: Javascript_Typescript/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: flow-bin
+  website_url: github.com/flowtype/flow-bin
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8085/15352388.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/zod/package.json
+  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/zod/package.json
+  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: "@types/chokidar"
+  description: TypeScript definitions for chokidar
+  package_url: https://www.npmjs.com/@types/chokidar
+  version: 2.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17586/default_e98b11d23d67b728bd1f3e02eba62d97a55febbd.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 27.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: "@types/jsdom"
+  description: TypeScript definitions for jsdom
+  package_url: https://www.npmjs.com/@types/jsdom
+  version: 16.2.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17003/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 17.0.33
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: "@types/prettier"
+  description: TypeScript definitions for prettier
+  package_url: https://www.npmjs.com/@types/prettier
+  version: 2.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16943/default_c17ccfb3dc0510bb2c684b87ee080a74a9728c34.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: "@types/prop-types"
+  description: TypeScript definitions for prop-types
+  package_url: https://www.npmjs.com/@types/prop-types
+  version: 15.7.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16673/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/yarn.lock
+  detection_source: Javascript_Typescript/node_modules/@types/react/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.0.26
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/yarn.lock
+  detection_source: Javascript_Typescript/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: "@types/request"
+  description: TypeScript definitions for request
+  package_url: https://www.npmjs.com/@types/request
+  version: 2.48.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16354/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 5.23.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 5.23.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: benchmark
+  description: A benchmarking library that supports high-resolution timers &amp; returns
+    statistically significant results
+  package_url: https://www.npmjs.com/benchmark
+  version: 2.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16241/default_cbc604730ab04341982d806fe402cd0706cc8bf4.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/zod/package.json
+  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 4.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: chokidar
+  description: A neat wrapper around node.js fs.watch / fs.watchFile / fsevents
+  package_url: https://www.npmjs.com/chokidar
+  version: 3.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16043/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: csstype
+  description: Strict TypeScript and Flow types for style based on MDN data
+  package_url: https://www.npmjs.com/csstype
+  version: 3.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18333/default_cef8b737c55fccc3604e91ce246aef30fc604c73.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/yarn.lock
+  detection_source: Javascript_Typescript/node_modules/@types/react/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: envify
+  description: Selectively replace Node-style environment variables with plain strings
+  package_url: https://www.npmjs.com/envify
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16578/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/loose-envify/package.json
+  detection_source: Javascript_Typescript/node_modules/loose-envify/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 8.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.25.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/zod/package.json
+  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: esprima
+  description: ECMAScript parsing infrastructure for multipurpose analysis
+  package_url: https://www.npmjs.com/esprima
+  version: 4.0.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16362/default_23e0dabcd0197f0c1f0a41268f8ca3f7e8b1f1e2.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/js-tokens/package.json
+  detection_source: Javascript_Typescript/node_modules/js-tokens/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: fast-glob
+  description: It's a very fast and efficient glob library for Node.js
+  package_url: https://www.npmjs.com/fast-glob
+  version: 3.2.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17033/default_50357c490b205882dcfb608fd3c74b446186c21e.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: flow-bin
+  description: Binary wrapper for Flow - A static type checker for JavaScript
+  package_url: https://www.npmjs.com/flow-bin
+  version: 0.178.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15957/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 7.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/zod/package.json
+  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 12.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/zod/package.json
+  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: loose-envify
+  description: Fast
+  package_url: https://www.npmjs.com/loose-envify
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18138/default_5813ab9c745152271a057cdab6eeded8939401f3.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/yarn.lock
+  detection_source: Javascript_Typescript/node_modules/react/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: pretty-quick
+  description: Get Pretty Quick
+  package_url: https://www.npmjs.com/pretty-quick
+  version: 3.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16281/default_f130429ee56156823c8c6e94da6fb7aa07f07ba5.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/zod/package.json
+  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: request
+  description: Simplified HTTP request client
+  package_url: https://www.npmjs.com/request
+  version: 2.88.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+  vulnerabilities:
+  - name: Server-Side Request Forgery in Request
+    cve_id: CVE-2023-28155
+    cve_url: https://github.com/advisories/GHSA-p8p7-x288-28g6
+    detected_date: Mar 17
+    severity: moderate
+    first_patched: 
+- name: tap
+  description: A Test-Anything-Protocol library for JavaScript
+  package_url: https://www.npmjs.com/tap
+  version: 8.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16027/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/loose-envify/package.json
+  detection_source: Javascript_Typescript/node_modules/loose-envify/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 28.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 10.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/csstype/package.json
+  detection_source: Javascript_Typescript/node_modules/csstype/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 2.3.1
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/jdeola/SNIPPET_NOTEBOOKS/blob/master/Javascript_Typescript/node_modules/zod/package.json
+  detection_source: Javascript_Typescript/node_modules/zod/package.json
+  last_updated_by: Jim Deola
+  last_updated_on: 2023-01-12 23:29:51.000000000 Z
